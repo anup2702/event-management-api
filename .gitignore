@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# dotenv environment file
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Test coverage reports
+coverage/
+
+# Optional: database dumps
+*.sql
+
+# Debug
+debug.log
+
+# Ignore uploads/temp if applicable
+uploads/
+temp/
