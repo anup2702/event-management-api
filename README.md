@@ -1,40 +1,39 @@
-````markdown
 # 🎯 Event Management API
 
 A RESTful backend application built with **Node.js**, **Express**, **PostgreSQL**, and **Sequelize ORM**. It allows users to register for events, cancel registrations, and view event details, statistics, and upcoming events.
 
----
+-----
 
 ## 📦 Features
 
-- 🔐 Create and manage events
-- 👤 Register and cancel user registrations
-- 📊 View event statistics (capacity, usage)
-- 📅 List upcoming events (sorted by date, then location)
-- ❌ Prevent duplicate & past-event registrations
-- ✅ Clean and modular code structure with validation and error handling
+  - 🔐 Create and manage events
+  - 👤 Register and cancel user registrations
+  - 📊 View event statistics (capacity, usage)
+  - 📅 List upcoming events (sorted by date, then location)
+  - ❌ Prevent duplicate & past-event registrations
+  - ✅ Clean and modular code structure with validation and error handling
 
----
+-----
 
 ## 🛠️ Tech Stack
 
-- **Node.js** + **Express.js**
-- **PostgreSQL** + **Sequelize ORM**
-- **Joi** (for input validation)
-- **dotenv** (for environment variables)
-- **Day.js** (date & time handling)
-- **Thunder Client / Postman** (for testing APIs)
+  - **Node.js** + **Express.js**
+  - **PostgreSQL** + **Sequelize ORM**
+  - **Joi** (for input validation)
+  - **dotenv** (for environment variables)
+  - **Day.js** (date & time handling)
+  - **Thunder Client / Postman** (for testing APIs)
 
----
+-----
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Project
 
 ```bash
-git clone [https://github.com/anup2702/event-management-api.git](https://github.com/anup2702/event-management-api.git)
+git clone https://github.com/anup2702/event-management-api.git
 cd event-management-api
-````
+```
 
 ### 2️⃣ Install Dependencies
 
