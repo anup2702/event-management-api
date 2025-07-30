@@ -194,6 +194,3 @@ You can use any of these tools:
 | `npm run dev` | Start server with nodemon        |
 | `npm start`   | Start server in production mode  |
 
-
-```
-```
