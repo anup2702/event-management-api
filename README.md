@@ -194,19 +194,6 @@ You can use any of these tools:
 | `npm run dev` | Start server with nodemon        |
 | `npm start`   | Start server in production mode  |
 
------
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
------
-
-## 🙋‍♂️ Author
-
-**Anup Kumar**
-Backend Developer | Engineering Student
-🌐 GitHub: @yourusername
 
 ```
 ```
